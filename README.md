@@ -14,9 +14,6 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that allows users
 
 ---
 
-## 🏗 Architecture
-![RAG Pipeline](assets/architecture.svg)
-
 ---
 
 ## 🛠 Tech Stack
@@ -38,3 +35,4 @@ cd rag-pdf-qa
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+
